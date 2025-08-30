@@ -1,24 +1,31 @@
 var products = [
     {
         id:1,//id is unique
-        title:"iPhone 14 Pro",
+        title:"Ch 60 phone",
         price:999,
-        image:"placeholder",
+        image:"cellphone.jpeg",
         category:"smartphones"
     },
     {
         id:2,//id is unique
-        title:"Samsung Smart TV",
+        title:"Ch60 tv",
         price:600,
-        image:"placeholder",
+        image:"tv.jpeg",
         category:"smart tv"
     },
      {
         id:3,//id is unique
-        title:"Lenovo Laptop",
+        title:"Ch 60 laptop",
         price:500,
-        image:"placeholder",
+        image:"laptop.jpeg",
         category:"computers"
+    },
+       {
+        id:4,//id is unique
+        title:"Ch 60 mouse",
+        price:100,
+        image:"mouse.jpeg",
+        category:"utils"
     },
     // add more products if you want
 ]
