@@ -25,7 +25,7 @@ var products = [
         title:"Ch 60 mouse",
         price:100,
         image:"mouse.jpeg",
-        category:"utils"
+        category:"accessories"
     },
     // add more products if you want
 ]
